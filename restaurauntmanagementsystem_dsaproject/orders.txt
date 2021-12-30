@@ -1,0 +1,22 @@
+zinger ,plain fries ,-->Items, Name of Order-->sarim,Number of Items order-->2,Drinks-->pepsi,Drinks Quantity-->1,Drinks Total-->60,Bill-->360
+
+zinger ,mayo garlic ,-->Items, Name of Order-->rameen,Number of Items order-->2,Drinks-->pepsi,Drinks Quantity-->1,Drinks Total-->60,Bill-->430
+
+zinger ,plain fries ,-->Items, Name of Order-->roy, Number of Items order-->2, Price of 1st item-->200, Price of 2nd item-->100, Bill-->300
+
+mayo garlic ,-->Items, Name of Order-->rameen, Number of Items order-->1, Drinks-->pepsi, Drinks Quantity-->2, Drinks Total-->120, Price of 1st item-->340, Bill-->460
+
+mayo garlic ,-->Items, Name of Order-->usual, Number of Items order-->1, Price of 1st item-->340, Bill-->340
+
+mayo garlic ,-->Items, Name of Order-->usual, Number of Items order-->1, Price of 1st item-->340, Bill-->340
+
+zinger ,mayo garlic ,kheer ,-->Items, Name of Order-->pawri ho rhi hai, Number of Items order-->3, Drinks-->pepsi, Drinks Quantity-->3, Drinks Total-->180, Price of 1st item-->600, Price of 2nd item-->510, Price of 3rd item-->240, Bill-->1530
+
+plain fries ,beef burger ,kheer ,-->Items, Name of Order-->no drinks, Number of Items order-->3, Price of 1st item-->200, Price of 2nd item-->510, Price of 3rd item-->360, Bill-->1070
+
+zinger ,mayo garlic ,-->Items, Name of Order-->khapa, Number of Items order-->2, Drinks-->pepsi, Drinks Quantity-->2, Drinks Total-->120, Price of 1st item-->400, Price of 2nd item-->340, Bill-->860
+
+zinger ,mayo garlic ,kheer ,-->Items, Name of Order-->fries, Number of Items order-->3, Drinks-->pepsi, Drinks Quantity-->4, Drinks Total-->240, Price of 1st item-->200, Price of 2nd item-->170, Price of 3rd item-->120, Bill-->730
+
+zinger ,-->Items, Name of Order-->morning, Number of Items order-->1, Drinks-->pepsi, Drinks Quantity-->1, Drinks Total-->60, Price of 1st item-->200, Bill-->260
+
